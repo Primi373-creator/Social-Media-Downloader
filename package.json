@@ -1,6 +1,6 @@
 {
   "name": "Social-Media-Downloader",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Telegram bot to download all kinds of media.",
   "main": "index.js",
   "scripts": {
